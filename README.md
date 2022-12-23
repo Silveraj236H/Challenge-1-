@@ -2,10 +2,10 @@
 Work completed by Connor Phillips 12/22/2022
 
 Link to github respository for the project:
-<insert link here>
+https://github.com/Silveraj236H/Challenge-1-
   
 Link to live webpage for the project:
-<insert link here>
+file:///C:/Users/conno/OneDrive/Desktop/Challenge%201/02-Challenge/Develop/index.html
   
 Brief Summary:
   
